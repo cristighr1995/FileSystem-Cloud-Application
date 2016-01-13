@@ -1,0 +1,16 @@
+fisierascuns--foartetare--37.0--us--2016/01/06 15:58:43--11--/home/foartetare/fisierascuns--0--binar--[B@7e3061b5
+[root--true--true, guest--false--false, us--true--true, c--false--false, crs--false--false, m--false--false]
+fisiervizibil--foartetare--13.0--us--2016/01/06 15:59:24--12--/home/foartetare/fisiervizibil--3--binar--[B@3adc4e3b
+[root--true--true, guest--false--false, us--true--true, c--true--true, crs--true--true, m--true--true]
+fisierNoPasInside--directorNoPass--15.0--crs--2016/01/06 16:02:05--14--/home/foartetare/directorNoPass/fisierNoPasInside--0--binar--[B@6648eb21
+[root--true--true, guest--false--false, crs--true--true, c--false--false, m--false--false, us--false--false]
+h1--home--11.0--c--2015/12/06 16:24:23--9--/home/h1--3--binar--[B@7c17cc30
+[root--true--true, guest--false--false, c--true--true, crs--true--true, us--true--true]
+photo--root--48.0--c--2015/12/06 17:19:59--10--/photo--3--jpg--[B@33ed3753
+[root--true--true, guest--false--false, c--true--true, crs--true--true, us--true--true]
+lb1--libinside--14.0--c--2015/12/06 16:03:54--17--/lib/libinside/lb1--3--binar--[B@5f1ba7c4
+[root--true--true, guest--false--false, c--true--true, crs--true--true, us--true--true]
+lb2--libinside--37.0--c--2015/12/06 16:04:02--18--/lib/libinside/lb2--3--binar--[B@293cc120
+[root--true--true, guest--false--false, c--true--true, crs--true--true, us--true--true]
+lb3--libinside--42.0--c--2015/12/06 16:04:09--19--/lib/libinside/lb3--3--binar--[B@1ffd4f16
+[root--true--true, guest--false--false, c--true--true, crs--true--true, us--true--true]
