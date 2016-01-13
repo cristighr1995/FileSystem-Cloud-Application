@@ -51,7 +51,7 @@ Commands' format
     --3: everyone can read or write;
     
 # How to use
-Download the archive, extract the project and Open Project with NetBeans or Eclipse.
+Download the archive, extract the project and Open Project with NetBeans or Eclipse, then run it.
 
 Have Fun!
 --------
