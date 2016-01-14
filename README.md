@@ -55,5 +55,8 @@ Download the archive, extract the project and Open Project with NetBeans or Ecli
 
 Application uses SwingX and JLayer libraries. If needed you need to add these libraries to the project.
 
+# Documentation
+Please read the Documentation.doc file from the project
+
 Have Fun!
 --------
